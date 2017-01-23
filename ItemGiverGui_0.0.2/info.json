@@ -1,0 +1,11 @@
+{
+  "name": "ItemGiverGui",
+  "version": "0.0.2",
+  "title": "Item Giver Gui",
+  "author": "coltonj96",
+  "contact": "",
+  "homepage": "",
+  "description": "tbd",
+  "factorio_version": "0.14",
+  "dependencies": ["base >= 0.11.1"]
+ }
